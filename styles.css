@@ -23,7 +23,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 16px;
-    font-family: 'PT Serif', Georgia, "Times New Roman", serif;
+    font-family: 'Roboto', Helvetica, sans-serif;
 }
 
 .container {
@@ -116,7 +116,7 @@ form {
 }
 
 span {
-    font-family: 'PT Serif', Georgia, "Times New Roman", serif;
+    font-family: 'Roboto', Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 100;
 }
@@ -128,12 +128,12 @@ span {
 .choice {
     cursor: pointer;
     background-color: #FFFFFF;
-    font-family: 'PT Serif', Georgia, "Times New Roman", serif;
+    font-family: 'Roboto', Helvetica, sans-serif;
     width: 100%;
     border: solid;
     border-width: thin;
     color: #000000;
-    font-family: 'PT Serif', Georgia, "Times New Roman", serif;
+    font-family: 'Roboto', Helvetica, sans-serif;
     font-size: 16px;
 }
 
@@ -146,7 +146,7 @@ span {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: 'PT Serif', Georgia, "Times New Roman", serif;
+    font-family: 'Roboto', Helvetica, sans-serif;
     font-size: 16px;
     margin: 4px 2px;
     padding: 4px 55px;
@@ -158,7 +158,7 @@ span {
 }
 
 #rstbtn:hover {
-    background-color: #000000;
+    background-color: #ff5252;
     color: #FFFFFF;
 }
 
